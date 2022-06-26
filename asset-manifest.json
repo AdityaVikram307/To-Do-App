@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AdityaVikram307/To-Do-App/static/css/main.18d7e42b.css",
+    "main.js": "/AdityaVikram307/To-Do-App/static/js/main.18ae5d1c.js",
+    "index.html": "/AdityaVikram307/To-Do-App/index.html",
+    "main.18d7e42b.css.map": "/AdityaVikram307/To-Do-App/static/css/main.18d7e42b.css.map",
+    "main.18ae5d1c.js.map": "/AdityaVikram307/To-Do-App/static/js/main.18ae5d1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18d7e42b.css",
+    "static/js/main.18ae5d1c.js"
+  ]
+}
